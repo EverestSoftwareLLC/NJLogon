@@ -10,7 +10,7 @@ Create a short cut to the NJLogon.exe program and pass the parameters in the tar
 
 Parameters
 
-/pw..........password
+/pw	password
 
 /pexe        path to the NinjaTrader.exe program.
              Default path is: “C:\Program Files\NinjaTrader 8\bin\NinjaTrader.exe”
