@@ -24,13 +24,18 @@ Parameters
 
 /verbose     Verbose logging of program progress. Default is off.
 
-Example:
+Examples:
 
 /pw	myPassword
+
 /pexe	“C:\Program Files\NinjaTrader 8\bin\NinjaTrader.exe”
+
 /to	20
+
 /u	“Jane Doe”
+
 /syncOff
+
 /verbose	
 
 Example:
