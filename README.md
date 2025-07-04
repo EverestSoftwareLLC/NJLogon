@@ -9,7 +9,7 @@ Each parameter and value are separated by a space.
 Create a short cut to the NJLogon.exe program and pass the parameters in the target field.
 
 Parameters
-/pw          password
+/pw..........password
 
 /pexe        path to the NinjaTrader.exe program.
              Default path is: “C:\Program Files\NinjaTrader 8\bin\NinjaTrader.exe”
