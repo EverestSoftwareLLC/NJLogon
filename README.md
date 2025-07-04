@@ -9,14 +9,14 @@ Each parameter and value are separated by a space.
 Create a short cut to the NJLogon.exe program and pass the parameters in the target field.
 
 Parameters
-/pw	password
+/pw	      password
 
-/pexe	path to the NinjaTrader.exe program.
-Default path is: “C:\Program Files\NinjaTrader 8\bin\NinjaTrader.exe”
+/pexe	    path to the NinjaTrader.exe program.
+          Default path is: “C:\Program Files\NinjaTrader 8\bin\NinjaTrader.exe”
 
-/to	Timeout. The time limit to attempt logon, default 45 seconds. Range 10-300 seconds. 
+/to	      Timeout. The time limit to attempt logon, default 45 seconds. Range 10-300 seconds. 
 
-/u	user name. This should not be needed. 
+/u	      user name. This should not be needed. 
 
 /syncOff	Clock synchronize. Default is the program will attempt to synchronize the PC clock with a time server configured in the OS. (no parameter required)
 
