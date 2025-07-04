@@ -1,2 +1,2 @@
 # NJLogon
-Ninja-Trader-Logon
+NinjaTrader Logon
